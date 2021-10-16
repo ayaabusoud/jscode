@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width:75%;
+    margin: auto;
+}
+
+h1{
+    margin-top: 7px;
+}
+
+h2{
+    margin: 5px 0px 8px 0px;
+}
+
+.b1{
+    margin-right: 20px;
+   background-color: rgb(61, 216, 87);
+   width: 90px;
+   margin-bottom: 10px;
+}
+
+.b2{
+    background-color: crimson;
+    width: 60px;
+    margin-bottom: 10px;
+}
+
+#flex-result , #result{
+    border: 1px solid black;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    width: 50%;
+}
